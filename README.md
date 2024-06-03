@@ -3,9 +3,11 @@ version 1.0
 
 This is a C++ code for creating a console application for a game of "Simon" with files:
 
-Simon01.cpp  
+simon.cpp  
 bsp.cpp 
-bsp.h
+bsp.h 
+colors.h
+
 
 Default compilation sets the game to have 4 buttons  
 For example: when cmake command is excuted in the loaction of the code files, commands:
