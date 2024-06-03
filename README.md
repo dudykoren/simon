@@ -1,5 +1,5 @@
 Simon Game  
-version 1.0  
+ 
 
 This is a C++ code for creating a console application for a game of "Simon" with files:  
   
