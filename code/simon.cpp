@@ -1,4 +1,4 @@
-﻿//simon version 1.0
+﻿//simon game
 
 #include "bsp.h"
 #include "colors.h"
